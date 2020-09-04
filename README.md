@@ -18,11 +18,11 @@ Abusive behavior may result on banning from the community.
 
 
 ## Copyright violations
-We respect the intellectual property of others and ask that you do too. Please, make sure the code you yours. We won't accept code that violates a copyright. Please let us know if our code is infringing any copyrights through [info@ckret.pw](mailto:info@ckret.pw).
+We respect the intellectual property of others and ask that you do too. Please, make sure the code you yours. We won't accept code that violates a copyright. Please let us know if our code is infringing any copyrights through [info@ckret.io](mailto:info@ckret.io).
 
 
 ## Information and reports
-If you feel like helping out, get more information or report any situation, please contact us using [info@ckret.pw](mailto:info@ckret.pw).
+If you feel like helping out, get more information or report any situation, please contact us using [info@ckret.io](mailto:info@ckret.io).
 
 ##Credit and License
 This Code of Conduct is based on the npm Code of Conduct and IPFS Code of Conduct.
